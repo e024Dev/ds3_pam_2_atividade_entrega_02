@@ -15,7 +15,7 @@ O App de citação é muito simples e basicamente ele exibe um card com uma cita
 #### Criando o Layout do Zero
 
 1. Apague o arquivo `test/widget_test.dart`.
-2. Abra o arquivo todo o conteúdo do arquivo `lib/main.dart`.
+2. Abra o arquivo `lib/main.dart` e apague todo o conteúdo do arquivo.
 3. Inclua a importação do pacote Material para uso dos componentes do Google Material Design.
 
 ```dart
